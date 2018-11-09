@@ -1,0 +1,13 @@
+C:\Users\FILIP\Desktop\Projekat\ModelLabsProjekat\ModelLabsProjekat\ClientGUI\bin\Debug\ClientGUI.exe.config
+C:\Users\FILIP\Desktop\Projekat\ModelLabsProjekat\ModelLabsProjekat\ClientGUI\bin\Debug\ClientGUI.exe
+C:\Users\FILIP\Desktop\Projekat\ModelLabsProjekat\ModelLabsProjekat\ClientGUI\bin\Debug\ClientGUI.pdb
+C:\Users\FILIP\Desktop\Projekat\ModelLabsProjekat\ModelLabsProjekat\ClientGUI\bin\Debug\FTN.Common.dll
+C:\Users\FILIP\Desktop\Projekat\ModelLabsProjekat\ModelLabsProjekat\ClientGUI\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\FILIP\Desktop\Projekat\ModelLabsProjekat\ModelLabsProjekat\ClientGUI\bin\Debug\FTN.Common.pdb
+C:\Users\FILIP\Desktop\Projekat\ModelLabsProjekat\ModelLabsProjekat\ClientGUI\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\FILIP\Desktop\Projekat\ModelLabsProjekat\ModelLabsProjekat\ClientGUI\obj\Debug\ClientGUI.csprojResolveAssemblyReference.cache
+C:\Users\FILIP\Desktop\Projekat\ModelLabsProjekat\ModelLabsProjekat\ClientGUI\obj\Debug\ClientGUI.Form1.resources
+C:\Users\FILIP\Desktop\Projekat\ModelLabsProjekat\ModelLabsProjekat\ClientGUI\obj\Debug\ClientGUI.Properties.Resources.resources
+C:\Users\FILIP\Desktop\Projekat\ModelLabsProjekat\ModelLabsProjekat\ClientGUI\obj\Debug\ClientGUI.csproj.GenerateResource.Cache
+C:\Users\FILIP\Desktop\Projekat\ModelLabsProjekat\ModelLabsProjekat\ClientGUI\obj\Debug\ClientGUI.exe
+C:\Users\FILIP\Desktop\Projekat\ModelLabsProjekat\ModelLabsProjekat\ClientGUI\obj\Debug\ClientGUI.pdb

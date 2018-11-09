@@ -1,0 +1,188 @@
+09-Oct-18 9:27:48 PM : Starting Network Model Service...
+09-Oct-18 9:27:56 PM : The WCF service GenericDataAccess is ready.
+09-Oct-18 9:27:56 PM : Endpoints:
+09-Oct-18 9:27:56 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+09-Oct-18 9:27:56 PM : Connection string: ../NetworkModelData.data
+09-Oct-18 9:27:56 PM : Trace level: Info
+09-Oct-18 9:27:56 PM : The Network Model Service is started.
+09-Oct-18 9:27:56 PM : Press <Enter> to stop the service.
+09-Oct-18 9:31:01 PM : Starting Network Model Service...
+09-Oct-18 9:31:03 PM : The WCF service GenericDataAccess is ready.
+09-Oct-18 9:31:03 PM : Endpoints:
+09-Oct-18 9:31:03 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+09-Oct-18 9:31:03 PM : Connection string: ../NetworkModelData.data
+09-Oct-18 9:31:03 PM : Trace level: Info
+09-Oct-18 9:31:03 PM : The Network Model Service is started.
+09-Oct-18 9:31:03 PM : Press <Enter> to stop the service.
+09-Oct-18 9:32:03 PM : Applying  delta to network model.
+09-Oct-18 9:32:03 PM : Inserting entity with GID (0000000100000001).
+09-Oct-18 9:32:03 PM : Inserting entity with GID (0000000100000002).
+09-Oct-18 9:32:03 PM : Inserting entity with GID (0000000200000001).
+09-Oct-18 9:32:03 PM : Inserting entity with GID (0000000200000002).
+09-Oct-18 9:32:03 PM : Inserting entity with GID (0000000300000001).
+09-Oct-18 9:32:03 PM : Inserting entity with GID (0000000300000002).
+09-Oct-18 9:32:03 PM : Inserting entity with GID (0000000400000001).
+09-Oct-18 9:32:03 PM : Inserting entity with GID (0000000400000002).
+09-Oct-18 9:32:03 PM : Inserting entity with GID (0000000500000001).
+09-Oct-18 9:32:03 PM : Inserting entity with GID (0000000500000002).
+09-Oct-18 9:32:03 PM : Inserting entity with GID (0000000600000001).
+09-Oct-18 9:32:03 PM : Inserting entity with GID (0000000600000002).
+09-Oct-18 9:32:03 PM : Applying delta to network model successfully finished.
+09-Oct-18 9:38:14 PM : Starting Network Model Service...
+09-Oct-18 9:38:14 PM : Inserting entity with GID (0000000100000001).
+09-Oct-18 9:38:14 PM : Inserting entity with GID (0000000100000002).
+09-Oct-18 9:38:14 PM : Inserting entity with GID (0000000200000001).
+09-Oct-18 9:38:14 PM : Inserting entity with GID (0000000200000002).
+09-Oct-18 9:38:14 PM : Inserting entity with GID (0000000300000001).
+09-Oct-18 9:38:14 PM : Inserting entity with GID (0000000300000002).
+09-Oct-18 9:38:14 PM : Inserting entity with GID (0000000400000001).
+09-Oct-18 9:38:14 PM : Inserting entity with GID (0000000400000002).
+09-Oct-18 9:38:14 PM : Inserting entity with GID (0000000500000001).
+09-Oct-18 9:38:14 PM : Inserting entity with GID (0000000500000002).
+09-Oct-18 9:38:14 PM : Inserting entity with GID (0000000600000001).
+09-Oct-18 9:38:14 PM : Inserting entity with GID (0000000600000002).
+09-Oct-18 9:38:16 PM : The WCF service GenericDataAccess is ready.
+09-Oct-18 9:38:16 PM : Endpoints:
+09-Oct-18 9:38:16 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+09-Oct-18 9:38:16 PM : Connection string: ../NetworkModelData.data
+09-Oct-18 9:38:16 PM : Trace level: Info
+09-Oct-18 9:38:16 PM : The Network Model Service is started.
+09-Oct-18 9:38:16 PM : Press <Enter> to stop the service.
+09-Oct-18 9:39:47 PM : Starting Network Model Service...
+09-Oct-18 9:39:47 PM : Inserting entity with GID (0000000100000001).
+09-Oct-18 9:39:47 PM : Inserting entity with GID (0000000100000002).
+09-Oct-18 9:39:48 PM : Inserting entity with GID (0000000200000001).
+09-Oct-18 9:39:48 PM : Inserting entity with GID (0000000200000002).
+09-Oct-18 9:39:48 PM : Inserting entity with GID (0000000300000001).
+09-Oct-18 9:39:48 PM : Inserting entity with GID (0000000300000002).
+09-Oct-18 9:39:48 PM : Inserting entity with GID (0000000400000001).
+09-Oct-18 9:39:48 PM : Inserting entity with GID (0000000400000002).
+09-Oct-18 9:39:48 PM : Inserting entity with GID (0000000500000001).
+09-Oct-18 9:39:48 PM : Inserting entity with GID (0000000500000002).
+09-Oct-18 9:39:48 PM : Inserting entity with GID (0000000600000001).
+09-Oct-18 9:39:48 PM : Inserting entity with GID (0000000600000002).
+09-Oct-18 9:39:49 PM : The WCF service GenericDataAccess is ready.
+09-Oct-18 9:39:49 PM : Endpoints:
+09-Oct-18 9:39:49 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+09-Oct-18 9:39:49 PM : Connection string: ../NetworkModelData.data
+09-Oct-18 9:39:49 PM : Trace level: Info
+09-Oct-18 9:39:49 PM : The Network Model Service is started.
+09-Oct-18 9:39:49 PM : Press <Enter> to stop the service.
+09-Oct-18 9:40:04 PM : Failed to set value for property (CONNODE_DESC) because specified vector value is not compatible with property type (String).
+09-Oct-18 9:40:05 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000100000001. Failed to set value for property (CONNODE_DESC) because specified vector value is not compatible with property type (String).
+09-Oct-18 9:40:05 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000100000001. Failed to set value for property (CONNODE_DESC) because specified vector value is not compatible with property type (String).
+09-Oct-18 9:40:05 PM : IteratorNext failed. Iterator ID = 1. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000100000001. Failed to set value for property (CONNODE_DESC) because specified vector value is not compatible with property type (String). 
+09-Oct-18 9:44:27 PM : Starting Network Model Service...
+09-Oct-18 9:44:27 PM : Inserting entity with GID (0000000100000001).
+09-Oct-18 9:44:27 PM : Inserting entity with GID (0000000100000002).
+09-Oct-18 9:44:27 PM : Inserting entity with GID (0000000200000001).
+09-Oct-18 9:44:27 PM : Inserting entity with GID (0000000200000002).
+09-Oct-18 9:44:27 PM : Inserting entity with GID (0000000300000001).
+09-Oct-18 9:44:28 PM : Inserting entity with GID (0000000300000002).
+09-Oct-18 9:44:28 PM : Inserting entity with GID (0000000400000001).
+09-Oct-18 9:44:28 PM : Inserting entity with GID (0000000400000002).
+09-Oct-18 9:44:28 PM : Inserting entity with GID (0000000500000001).
+09-Oct-18 9:44:28 PM : Inserting entity with GID (0000000500000002).
+09-Oct-18 9:44:28 PM : Inserting entity with GID (0000000600000001).
+09-Oct-18 9:44:28 PM : Inserting entity with GID (0000000600000002).
+09-Oct-18 9:44:29 PM : The WCF service GenericDataAccess is ready.
+09-Oct-18 9:44:29 PM : Endpoints:
+09-Oct-18 9:44:29 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+09-Oct-18 9:44:29 PM : Connection string: ../NetworkModelData.data
+09-Oct-18 9:44:29 PM : Trace level: Info
+09-Oct-18 9:44:29 PM : The Network Model Service is started.
+09-Oct-18 9:44:29 PM : Press <Enter> to stop the service.
+09-Oct-18 9:44:42 PM : Failed to set value for property (CONNODE_DESC) because specified vector value is not compatible with property type (String).
+09-Oct-18 9:44:42 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000100000001. Failed to set value for property (CONNODE_DESC) because specified vector value is not compatible with property type (String).
+09-Oct-18 9:44:42 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000100000001. Failed to set value for property (CONNODE_DESC) because specified vector value is not compatible with property type (String).
+09-Oct-18 9:44:42 PM : IteratorNext failed. Iterator ID = 1. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000100000001. Failed to set value for property (CONNODE_DESC) because specified vector value is not compatible with property type (String). 
+09-Oct-18 9:46:21 PM : Failed to set value for property (CONNODE_DESC) because specified vector value is not compatible with property type (String).
+09-Oct-18 9:46:21 PM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000100000001. Failed to set value for property (CONNODE_DESC) because specified vector value is not compatible with property type (String).
+09-Oct-18 9:46:21 PM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000100000001. Failed to set value for property (CONNODE_DESC) because specified vector value is not compatible with property type (String).
+09-Oct-18 9:46:22 PM : IteratorNext failed. Iterator ID = 2. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000100000001. Failed to set value for property (CONNODE_DESC) because specified vector value is not compatible with property type (String). 
+09-Oct-18 10:26:23 PM : Starting Network Model Service...
+09-Oct-18 10:26:24 PM : Inserting entity with GID (0000000100000001).
+09-Oct-18 10:26:24 PM : Inserting entity with GID (0000000100000002).
+09-Oct-18 10:26:24 PM : Inserting entity with GID (0000000200000001).
+09-Oct-18 10:26:24 PM : Inserting entity with GID (0000000200000002).
+09-Oct-18 10:26:24 PM : Inserting entity with GID (0000000300000001).
+09-Oct-18 10:26:24 PM : Inserting entity with GID (0000000300000002).
+09-Oct-18 10:26:24 PM : Inserting entity with GID (0000000400000001).
+09-Oct-18 10:26:24 PM : Inserting entity with GID (0000000400000002).
+09-Oct-18 10:26:24 PM : Inserting entity with GID (0000000500000001).
+09-Oct-18 10:26:24 PM : Inserting entity with GID (0000000500000002).
+09-Oct-18 10:26:24 PM : Inserting entity with GID (0000000600000001).
+09-Oct-18 10:26:24 PM : Inserting entity with GID (0000000600000002).
+09-Oct-18 10:26:25 PM : The WCF service GenericDataAccess is ready.
+09-Oct-18 10:26:25 PM : Endpoints:
+09-Oct-18 10:26:25 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+09-Oct-18 10:26:25 PM : Connection string: ../NetworkModelData.data
+09-Oct-18 10:26:25 PM : Trace level: Info
+09-Oct-18 10:26:25 PM : The Network Model Service is started.
+09-Oct-18 10:26:25 PM : Press <Enter> to stop the service.
+09-Oct-18 10:27:46 PM : Starting Network Model Service...
+09-Oct-18 10:27:47 PM : Inserting entity with GID (0000000100000001).
+09-Oct-18 10:27:47 PM : Inserting entity with GID (0000000100000002).
+09-Oct-18 10:27:47 PM : Inserting entity with GID (0000000200000001).
+09-Oct-18 10:27:47 PM : Inserting entity with GID (0000000200000002).
+09-Oct-18 10:27:47 PM : Inserting entity with GID (0000000300000001).
+09-Oct-18 10:27:47 PM : Inserting entity with GID (0000000300000002).
+09-Oct-18 10:27:47 PM : Inserting entity with GID (0000000400000001).
+09-Oct-18 10:27:47 PM : Inserting entity with GID (0000000400000002).
+09-Oct-18 10:27:47 PM : Inserting entity with GID (0000000500000001).
+09-Oct-18 10:27:47 PM : Inserting entity with GID (0000000500000002).
+09-Oct-18 10:27:47 PM : Inserting entity with GID (0000000600000001).
+09-Oct-18 10:27:47 PM : Inserting entity with GID (0000000600000002).
+09-Oct-18 10:27:48 PM : The WCF service GenericDataAccess is ready.
+09-Oct-18 10:27:48 PM : Endpoints:
+09-Oct-18 10:27:48 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+09-Oct-18 10:27:48 PM : Connection string: ../NetworkModelData.data
+09-Oct-18 10:27:48 PM : Trace level: Info
+09-Oct-18 10:27:48 PM : The Network Model Service is started.
+09-Oct-18 10:27:48 PM : Press <Enter> to stop the service.
+09-Oct-18 10:30:01 PM : Starting Network Model Service...
+09-Oct-18 10:30:01 PM : Inserting entity with GID (0000000100000001).
+09-Oct-18 10:30:01 PM : Inserting entity with GID (0000000100000002).
+09-Oct-18 10:30:01 PM : Inserting entity with GID (0000000200000001).
+09-Oct-18 10:30:01 PM : Inserting entity with GID (0000000200000002).
+09-Oct-18 10:30:01 PM : Inserting entity with GID (0000000300000001).
+09-Oct-18 10:30:01 PM : Inserting entity with GID (0000000300000002).
+09-Oct-18 10:30:01 PM : Inserting entity with GID (0000000400000001).
+09-Oct-18 10:30:01 PM : Inserting entity with GID (0000000400000002).
+09-Oct-18 10:30:01 PM : Inserting entity with GID (0000000500000001).
+09-Oct-18 10:30:01 PM : Inserting entity with GID (0000000500000002).
+09-Oct-18 10:30:01 PM : Inserting entity with GID (0000000600000001).
+09-Oct-18 10:30:01 PM : Inserting entity with GID (0000000600000002).
+09-Oct-18 10:30:04 PM : The WCF service GenericDataAccess is ready.
+09-Oct-18 10:30:04 PM : Endpoints:
+09-Oct-18 10:30:04 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+09-Oct-18 10:30:04 PM : Connection string: ../NetworkModelData.data
+09-Oct-18 10:30:04 PM : Trace level: Info
+09-Oct-18 10:30:04 PM : The Network Model Service is started.
+09-Oct-18 10:30:04 PM : Press <Enter> to stop the service.
+09-Oct-18 10:31:24 PM : Failed to set value for property (CONNODE_DESC) because specified vector value is not compatible with property type (String).
+09-Oct-18 10:31:24 PM : Getting values for resource with ID = 0x0000000100000002 failed. Failed to get values for entity with GID = 0x0000000100000002. Failed to set value for property (CONNODE_DESC) because specified vector value is not compatible with property type (String).
+16-Oct-18 9:20:07 AM : Starting Network Model Service...
+16-Oct-18 9:20:09 AM : Inserting entity with GID (0000000100000001).
+16-Oct-18 9:20:09 AM : Inserting entity with GID (0000000100000002).
+16-Oct-18 9:20:09 AM : Inserting entity with GID (0000000200000001).
+16-Oct-18 9:20:09 AM : Inserting entity with GID (0000000200000002).
+16-Oct-18 9:20:09 AM : Inserting entity with GID (0000000300000001).
+16-Oct-18 9:20:09 AM : Inserting entity with GID (0000000300000002).
+16-Oct-18 9:20:09 AM : Inserting entity with GID (0000000400000001).
+16-Oct-18 9:20:09 AM : Inserting entity with GID (0000000400000002).
+16-Oct-18 9:20:09 AM : Inserting entity with GID (0000000500000001).
+16-Oct-18 9:20:09 AM : Inserting entity with GID (0000000500000002).
+16-Oct-18 9:20:09 AM : Inserting entity with GID (0000000600000001).
+16-Oct-18 9:20:09 AM : Inserting entity with GID (0000000600000002).
+16-Oct-18 9:20:20 AM : The WCF service GenericDataAccess is ready.
+16-Oct-18 9:20:20 AM : Endpoints:
+16-Oct-18 9:20:20 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+16-Oct-18 9:20:20 AM : Connection string: ../NetworkModelData.data
+16-Oct-18 9:20:20 AM : Trace level: Info
+16-Oct-18 9:20:20 AM : The Network Model Service is started.
+16-Oct-18 9:20:20 AM : Press <Enter> to stop the service.
+16-Oct-18 9:21:02 AM : Failed to set value for property (CONNODE_DESC) because specified vector value is not compatible with property type (String).
+16-Oct-18 9:21:02 AM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000100000001. Failed to set value for property (CONNODE_DESC) because specified vector value is not compatible with property type (String).
+16-Oct-18 9:21:02 AM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000100000001. Failed to set value for property (CONNODE_DESC) because specified vector value is not compatible with property type (String).
+16-Oct-18 9:21:02 AM : IteratorNext failed. Iterator ID = 1. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000100000001. Failed to set value for property (CONNODE_DESC) because specified vector value is not compatible with property type (String). 

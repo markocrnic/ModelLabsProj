@@ -1,0 +1,120 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="12">
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="CONNODE" />
+          <Properties>
+            <Property id="CONNODE_DESC" value="DescriptionCN1" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001fffffffe" type="CONNODE" />
+          <Properties>
+            <Property id="CONNODE_DESC" value="DescriptionCN2" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="PLSIMPEDANCE" />
+          <Properties>
+            <Property id="PLSIMPEDANCE_B0CH" value="1" />
+            <Property id="PLSIMPEDANCE_BCH" value="2" />
+            <Property id="PLSIMPEDANCE_G0CH" value="3" />
+            <Property id="PLSIMPEDANCE_GCH" value="4" />
+            <Property id="PLSIMPEDANCE_R" value="5" />
+            <Property id="PLSIMPEDANCE_R0" value="6" />
+            <Property id="PLSIMPEDANCE_X" value="7" />
+            <Property id="PLSIMPEDANCE_X0" value="8" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffe" type="PLSIMPEDANCE" />
+          <Properties>
+            <Property id="PLSIMPEDANCE_B0CH" value="8" />
+            <Property id="PLSIMPEDANCE_BCH" value="7" />
+            <Property id="PLSIMPEDANCE_G0CH" value="6" />
+            <Property id="PLSIMPEDANCE_GCH" value="5" />
+            <Property id="PLSIMPEDANCE_R" value="4" />
+            <Property id="PLSIMPEDANCE_R0" value="3" />
+            <Property id="PLSIMPEDANCE_X" value="2" />
+            <Property id="PLSIMPEDANCE_X0" value="1" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003ffffffff" type="SERIESCOMP" />
+          <Properties>
+            <Property id="SERIESCOMP_R" value="1.1" />
+            <Property id="SERIESCOMP_R0" value="1.2" />
+            <Property id="SERIESCOMP_X" value="1.3" />
+            <Property id="SERIESCOMP_X0" value="1.4" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffe" type="SERIESCOMP" />
+          <Properties>
+            <Property id="SERIESCOMP_R" value="2.1" />
+            <Property id="SERIESCOMP_R0" value="2.2" />
+            <Property id="SERIESCOMP_X" value="2.3" />
+            <Property id="SERIESCOMP_X0" value="2.4" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="DCLSEGMENT" />
+          <Properties>
+            <Property id="CONDUCTOR_LENGTH" value="5" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffe" type="DCLSEGMENT" />
+          <Properties>
+            <Property id="CONDUCTOR_LENGTH" value="6" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="ACLSEGMENT" />
+          <Properties>
+            <Property id="CONDUCTOR_LENGTH" value="1.9" />
+            <Property id="ACLSEGMENT_B0CH" value="1.1" />
+            <Property id="ACLSEGMENT_BCH" value="1.2" />
+            <Property id="ACLSEGMENT_G0CH" value="1.3" />
+            <Property id="ACLSEGMENT_GCH" value="1.4" />
+            <Property id="ACLSEGMENT_R" value="1.5" />
+            <Property id="ACLSEGMENT_R0" value="1.6" />
+            <Property id="ACLSEGMENT_X" value="1.7" />
+            <Property id="ACLSEGMENT_X0" value="1.8" />
+            <Property id="ACLSEGMENT_PLIMPEDANCE" value="0x00000002ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffe" type="ACLSEGMENT" />
+          <Properties>
+            <Property id="CONDUCTOR_LENGTH" value="2.9" />
+            <Property id="ACLSEGMENT_B0CH" value="2.1" />
+            <Property id="ACLSEGMENT_BCH" value="2.2" />
+            <Property id="ACLSEGMENT_G0CH" value="2.3" />
+            <Property id="ACLSEGMENT_GCH" value="2.4" />
+            <Property id="ACLSEGMENT_R" value="2.5" />
+            <Property id="ACLSEGMENT_R0" value="2.6" />
+            <Property id="ACLSEGMENT_X" value="2.7" />
+            <Property id="ACLSEGMENT_X0" value="2.8" />
+            <Property id="ACLSEGMENT_PLIMPEDANCE" value="0x00000002fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006ffffffff" type="TERMINAL" />
+          <Properties>
+            <Property id="TERMINAL_CONNODE" value="0x00000001ffffffff" />
+            <Property id="TERMINAL_CONDEQ" value="0x00000003ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006fffffffe" type="TERMINAL" />
+          <Properties>
+            <Property id="TERMINAL_CONNODE" value="0x00000001fffffffe" />
+            <Property id="TERMINAL_CONDEQ" value="0x00000003fffffffe" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>
