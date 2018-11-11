@@ -72,6 +72,7 @@
             // 
             // tabPage1
             // 
+            this.tabPage1.BackColor = System.Drawing.Color.LightBlue;
             this.tabPage1.Controls.Add(this.richTextBox1);
             this.tabPage1.Controls.Add(this.button2);
             this.tabPage1.Controls.Add(this.comboBox3);
@@ -85,28 +86,29 @@
             this.tabPage1.Size = new System.Drawing.Size(817, 431);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Get Values";
-            this.tabPage1.UseVisualStyleBackColor = true;
             // 
             // richTextBox1
             // 
+            this.richTextBox1.BackColor = System.Drawing.Color.LightSkyBlue;
             this.richTextBox1.Location = new System.Drawing.Point(280, 25);
             this.richTextBox1.Margin = new System.Windows.Forms.Padding(4);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(517, 326);
+            this.richTextBox1.Size = new System.Drawing.Size(517, 372);
             this.richTextBox1.TabIndex = 5;
             this.richTextBox1.Text = "";
             // 
             // button2
             // 
             this.button2.Enabled = false;
-            this.button2.Location = new System.Drawing.Point(35, 216);
+            this.button2.Location = new System.Drawing.Point(92, 212);
             this.button2.Margin = new System.Windows.Forms.Padding(4);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(112, 37);
+            this.button2.Size = new System.Drawing.Size(97, 31);
             this.button2.TabIndex = 4;
             this.button2.Text = "OK";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.button2.BackColor = System.Drawing.Color.Pink;
             // 
             // comboBox3
             // 
@@ -114,7 +116,7 @@
             this.comboBox3.Location = new System.Drawing.Point(35, 63);
             this.comboBox3.Margin = new System.Windows.Forms.Padding(4);
             this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(160, 24);
+            this.comboBox3.Size = new System.Drawing.Size(216, 24);
             this.comboBox3.TabIndex = 3;
             this.comboBox3.SelectedIndexChanged += new System.EventHandler(this.comboBox3_SelectedIndexChanged);
             // 
@@ -152,6 +154,7 @@
             // 
             // tabPage2
             // 
+            this.tabPage2.BackColor = System.Drawing.Color.LightBlue;
             this.tabPage2.Controls.Add(this.button1);
             this.tabPage2.Controls.Add(this.ispis1);
             this.tabPage2.Controls.Add(this.label2);
@@ -163,26 +166,27 @@
             this.tabPage2.Size = new System.Drawing.Size(817, 431);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Get Extended Values";
-            this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // button1
             // 
             this.button1.Enabled = false;
-            this.button1.Location = new System.Drawing.Point(24, 111);
+            this.button1.Location = new System.Drawing.Point(91, 103);
             this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(108, 36);
+            this.button1.Size = new System.Drawing.Size(89, 32);
             this.button1.TabIndex = 3;
             this.button1.Text = "OK";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button1.BackColor = System.Drawing.Color.Pink;
             // 
             // ispis1
             // 
-            this.ispis1.Location = new System.Drawing.Point(225, 20);
+            this.ispis1.BackColor = System.Drawing.Color.LightSkyBlue;
+            this.ispis1.Location = new System.Drawing.Point(269, 20);
             this.ispis1.Margin = new System.Windows.Forms.Padding(4);
             this.ispis1.Name = "ispis1";
-            this.ispis1.Size = new System.Drawing.Size(563, 378);
+            this.ispis1.Size = new System.Drawing.Size(524, 378);
             this.ispis1.TabIndex = 0;
             this.ispis1.Text = "";
             this.ispis1.TextChanged += new System.EventHandler(this.ispis1_TextChanged);
@@ -203,12 +207,13 @@
             this.comboBox2.Location = new System.Drawing.Point(24, 54);
             this.comboBox2.Margin = new System.Windows.Forms.Padding(4);
             this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(160, 24);
+            this.comboBox2.Size = new System.Drawing.Size(222, 24);
             this.comboBox2.TabIndex = 0;
             this.comboBox2.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
             // 
             // tabPage3
             // 
+            this.tabPage3.BackColor = System.Drawing.Color.LightBlue;
             this.tabPage3.Controls.Add(this.comboBox7);
             this.tabPage3.Controls.Add(this.label3);
             this.tabPage3.Controls.Add(this.richTextBox2);
@@ -225,7 +230,6 @@
             this.tabPage3.Size = new System.Drawing.Size(817, 431);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "Get Related Values";
-            this.tabPage3.UseVisualStyleBackColor = true;
             // 
             // comboBox7
             // 
@@ -233,7 +237,7 @@
             this.comboBox7.Location = new System.Drawing.Point(30, 287);
             this.comboBox7.Margin = new System.Windows.Forms.Padding(4);
             this.comboBox7.Name = "comboBox7";
-            this.comboBox7.Size = new System.Drawing.Size(160, 24);
+            this.comboBox7.Size = new System.Drawing.Size(217, 24);
             this.comboBox7.TabIndex = 9;
             this.comboBox7.SelectedIndexChanged += new System.EventHandler(this.comboBox7_SelectedIndexChanged);
             // 
@@ -249,24 +253,26 @@
             // 
             // richTextBox2
             // 
+            this.richTextBox2.BackColor = System.Drawing.Color.LightSkyBlue;
             this.richTextBox2.Location = new System.Drawing.Point(277, 23);
             this.richTextBox2.Margin = new System.Windows.Forms.Padding(4);
             this.richTextBox2.Name = "richTextBox2";
-            this.richTextBox2.Size = new System.Drawing.Size(527, 368);
+            this.richTextBox2.Size = new System.Drawing.Size(515, 368);
             this.richTextBox2.TabIndex = 7;
             this.richTextBox2.Text = "";
             // 
             // button3
             // 
             this.button3.Enabled = false;
-            this.button3.Location = new System.Drawing.Point(30, 344);
+            this.button3.Location = new System.Drawing.Point(91, 342);
             this.button3.Margin = new System.Windows.Forms.Padding(4);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(112, 39);
+            this.button3.Size = new System.Drawing.Size(95, 29);
             this.button3.TabIndex = 6;
             this.button3.Text = "OK";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.button3.BackColor = System.Drawing.Color.Pink;
             // 
             // comboBox6
             // 
@@ -296,7 +302,7 @@
             this.comboBox4.Location = new System.Drawing.Point(30, 53);
             this.comboBox4.Margin = new System.Windows.Forms.Padding(4);
             this.comboBox4.Name = "comboBox4";
-            this.comboBox4.Size = new System.Drawing.Size(160, 24);
+            this.comboBox4.Size = new System.Drawing.Size(217, 24);
             this.comboBox4.TabIndex = 3;
             this.comboBox4.SelectedIndexChanged += new System.EventHandler(this.comboBox4_SelectedIndexChanged);
             // 
